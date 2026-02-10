@@ -110,7 +110,7 @@ This analystis enables stakeholders to:
 * Priortize monitoring of the high-risk behavioral segments
 * Track changes in financial health over time at a portfolio level
 * Support policy, engagment, or risk review discussions with data-backed insights
-* 
+
 ## Tools & Technologies
 * **Python** (Pandas, NumPy, Scikit-learn)
 * **PowernBI** (data modeling, DAX, dashboard design)
