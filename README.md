@@ -113,7 +113,7 @@ This analystis enables stakeholders to:
 
 ## Tools & Technologies
 * **Python** (Pandas, NumPy, Scikit-learn)
-* **PowernBI** (data modeling, DAX, dashboard design)
+* **Power BI** (data modeling, DAX, dashboard design)
 * **Jupyter Notebook**
 * **Git & GitHub**
 
